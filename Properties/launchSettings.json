@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FastAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51310;http://localhost:51311"
+    }
+  }
+}
